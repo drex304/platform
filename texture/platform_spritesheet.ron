@@ -1,0 +1,34 @@
+(
+    spritesheet_width: 10,
+    spritesheet_height: 10,
+    sprites: [
+        // enemy_normal
+        (
+            x: 0,
+            y: 0,
+            width: 5,
+            height: 5,
+        ),
+        // player
+        (
+            x: 5,
+            y: 0,
+            width: 5,
+            height: 5,
+        ),
+        // enemy_fast
+        (
+            x: 0,
+            y: 5,
+            width: 5,
+            height: 5,
+        ),
+        // wall
+        (
+            x: 5,
+            y: 5,
+            width: 5,
+            height: 5,
+        ),
+    ],
+)

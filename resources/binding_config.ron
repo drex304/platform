@@ -1,0 +1,8 @@
+(
+    axes: {
+        "player_move": Emulated(pos: Key(D), neg: Key(A)),
+    },
+    actions: {
+        "player_jump": [[Key(W)],],
+    },
+)
